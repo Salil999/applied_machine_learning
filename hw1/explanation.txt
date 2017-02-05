@@ -1,0 +1,15 @@
+Shashank Saxena
+ssaxen4
+CS498AML
+
+Most of my comments/explanation can be seen through my PDF file, which contains
+outputs and code.
+
+3.1 A) No explanation/write-up needed.
+3.1 B) The accuracy was slightly lowered. However, this small of a difference is
+not enough to say that the accuracy has been "affected" by this change.
+3.1 C) No explanation/write-up needed.
+3.1 D) No explanation/write-up needed.
+
+3.3 A) Explanation and code is in the attached PDF file.
+3.3 B) Explanation and code is in the attached PDF file.

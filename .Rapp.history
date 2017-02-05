@@ -1,0 +1,7 @@
+wdat<-read.csv('pima-indians-diabetes.data')
+wdat<-read.csv('hw1/pima-indians-diabetes.data')
+clea
+wdata
+wdat
+library(klaR)
+library(caret)
