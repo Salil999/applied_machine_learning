@@ -2,3 +2,6 @@ hw1/pima-indians-diabetes.data
 hw1/processed-cleveland.data
 hw1/ssaxen4_hw1.zip
 hw2/K9.data
+hw2/20K_K9.csv
+*.swp
+
