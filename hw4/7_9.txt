@@ -1,0 +1,5 @@
+The r-value of the regression is -0.9919, meaning that the log-log data shows strongly linear negative correlation.
+
+The residual plots reveal that there is a slight pattern to the data that the regression line does not exactly cover, but the r-squared value of 0.9839 means that 98.39% of the variance in the sulfate concentration is explained by the regression line. 
+
+Looking at the two plots of data vs. regression line in 2 different scales, the regression line appears to be good since it does not look like it strays too far from the plot of the data.
