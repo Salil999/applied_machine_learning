@@ -1,4 +1,4 @@
-dataset<-read.csv('/home/jjames34/7.11_f/abalone.data', header=FALSE)
+dataset<-read.csv('abalone.data', header=FALSE)
 #install.packages("glmnet", dependencies=TRUE)
 library(glmnet)
 library(plyr)
