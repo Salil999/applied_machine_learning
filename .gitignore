@@ -4,6 +4,7 @@ hw1/ssaxen4_hw1.zip
 hw2/K9.data
 hw2/20K_K9.csv
 *.swp
+.ipynb_checkpoints
 hw3/batches.meta
 hw3/data_batch_1
 hw3/data_batch_2
