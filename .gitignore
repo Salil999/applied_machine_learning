@@ -14,3 +14,5 @@ hw3/data_batch_5
 hw3/test_batch
 
 hw3/data/*
+
+hw7/__pycache__/*
